@@ -1,2 +1,2 @@
 # FlutterMania
-An osu!mania like rhythem game developed by flutter
+An osu!mania like rhythem game developed with flutter
